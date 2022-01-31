@@ -1,5 +1,12 @@
-### Hi there 👋
+[![Hrishikesh's Trophies](https://github-profile-trophy.vercel.app/?username=hrishikeshrt&column=9&margin-w=5&theme=oldie&no-bg=true)](https://github.com/hrishikeshrt/hrishikeshrt/)
 
+
+GitHub Stats | Streak Stats
+:-------------------------:|:-------------------------:
+[![Hrishikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrishikeshrt&count_private=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/hrishikeshrt/hrishikeshrt/) | [![Hrishikesh's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshrt&hide_border=true)](https://github.com/hrishikeshrt/hrishikeshrt/)
+
+
+  
 <!--
 **hrishikeshrt/hrishikeshrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
