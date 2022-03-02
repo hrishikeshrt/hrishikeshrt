@@ -1,3 +1,5 @@
+[![Introduction](https://raw.githubusercontent.com/hrishikeshrt/hrishikeshrt/main/hrishikeshrt.gif)](https://hrishikeshrt.github.io/)
+
 [![Hrishikesh's Trophies](https://github-profile-trophy.vercel.app/?username=hrishikeshrt&column=9&margin-w=5&theme=oldie&no-bg=true)](https://github.com/hrishikeshrt/hrishikeshrt/)
 
 
