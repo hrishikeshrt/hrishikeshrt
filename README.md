@@ -10,12 +10,17 @@ GitHub Stats | Streak Stats
 
 - 🔭 I’m currently working on Sanskrit NLP and IR
 - ⚡ Fun fact: I have recently started using [Conventional Commit Messages](https://gist.github.com/hrishikeshrt/606b3bdf8f7e98d91b6f81e4f661e338)
-  
+
 <!--
+- ⚡ Fun fact: I have created the header using [vue-matrix-digit-rain + typeit](https://github.com/hrishikeshrt/matrix-rain-typeit-intro).
+
 ---
+
 # Notable Repositories
 
 [![PyCDSL](https://github-readme-stats.vercel.app/api/pin/?username=hrishikeshrt&repo=PyCDSL)](https://github.com/hrishikeshrt/PyCDSL)
+
+---
 
 **hrishikeshrt/hrishikeshrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,4 +34,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
