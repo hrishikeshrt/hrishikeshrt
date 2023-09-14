@@ -9,7 +9,7 @@ GitHub Stats | Streak Stats
 
 
 - 🔭 I’m currently working on Sanskrit NLP and IR
-- ⚡ Fun fact: I have recently started using [Conventional Commit Messages](https://gist.github.com/hrishikeshrt/606b3bdf8f7e98d91b6f81e4f661e338)
+- ⚡ Fun fact: I use (and recommend) [Conventional Commit Messages](https://gist.github.com/hrishikeshrt/606b3bdf8f7e98d91b6f81e4f661e338) for all commits.
 
 <!--
 - ⚡ Fun fact: I have created the header using [vue-matrix-digit-rain + typeit](https://github.com/hrishikeshrt/matrix-rain-typeit-intro).
