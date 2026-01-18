@@ -1,6 +1,6 @@
 [![Introduction](https://raw.githubusercontent.com/hrishikeshrt/hrishikeshrt/main/hrishikeshrt_matrix_rain.gif)](https://hrishikeshrt.github.io/)
 
-[![Hrishikesh's Trophies](https://github-profile-trophy.vercel.app/?username=hrishikeshrt&column=9&margin-w=5&theme=oldie&no-bg=true)](https://github.com/hrishikeshrt/hrishikeshrt/)
+[![Hrishikesh's Trophies](https://github-profile-trophy-hrishikeshrt.vercel.app/?username=hrishikeshrt&column=9&margin-w=5&theme=oldie&no-bg=true)](https://github.com/hrishikeshrt/hrishikeshrt/)
 
 
 GitHub Stats | Streak Stats
