@@ -5,11 +5,12 @@
 
 GitHub Stats | Streak Stats
 :-------------------------:|:-------------------------:
-[![Hrishikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrishikeshrt&count_private=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/hrishikeshrt/hrishikeshrt/) | [![Hrishikesh's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshrt&hide_border=true)](https://github.com/hrishikeshrt/hrishikeshrt/)
+[![Hrishikesh's GitHub Stats](https://github-readme-stats-hrishikeshrt.vercel.app/api?username=hrishikeshrt&count_private=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/hrishikeshrt/hrishikeshrt/) | [![Hrishikesh's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshrt&hide_border=true)](https://github.com/hrishikeshrt/hrishikeshrt/)
 
 
-- 🔭 Interests: Sanskrit, Natural Language Processing, Computational Linguistics, Information Retrieval, Software, Knowledge Graphs, Databases
+- 🔭 Interests: Sanskrit, Indian Languages, Natural Language Processing, Computational Linguistics, Information Retrieval, Software, Knowledge Graphs, Databases
 - ⚡ I use (and recommend) [Conventional Commit Messages](https://gist.github.com/hrishikeshrt/606b3bdf8f7e98d91b6f81e4f661e338) for all commits.
+- 👯 I’m looking to collaborate on anything Indian Languages / LLMs / Knowledge Graphs.
 
 <!--
 - ⚡ Fun fact: I have created the header using [vue-matrix-digit-rain + typeit](https://github.com/hrishikeshrt/matrix-rain-typeit-intro).
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Sanskrit, NLP, CL, IR, Human Factors in Data-intensive Health Applications
 - 🌱 I’m currently learning Large Language Models LLMs
-- 👯 I’m looking to collaborate on LLMs for Knowledge Graph Repair
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
