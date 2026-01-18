@@ -5,7 +5,7 @@
 
 GitHub Stats | Streak Stats
 :-------------------------:|:-------------------------:
-[![Hrishikesh's GitHub Stats](https://github-readme-stats-hrishikeshrt.vercel.app/api?username=hrishikeshrt&count_private=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/hrishikeshrt/hrishikeshrt/) | [![Hrishikesh's GitHub Streak Stats](https://github-readme-streak-stats-hrishikeshrt.vercel.app/?user=hrishikeshrt&hide_border=true)](https://github.com/hrishikeshrt/hrishikeshrt/)
+[![Hrishikesh's GitHub Stats](https://github-readme-stats-hrishikeshrt.vercel.app/api?username=hrishikeshrt&count_private=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/hrishikeshrt/hrishikeshrt/) | [![Hrishikesh's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshrt&hide_border=true)](https://github.com/hrishikeshrt/hrishikeshrt/)
 
 
 - 🔭 Interests: Sanskrit, Indian Languages, Natural Language Processing, Computational Linguistics, Information Retrieval, Software, Knowledge Graphs, Databases
