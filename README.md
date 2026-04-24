@@ -10,7 +10,7 @@ GitHub Stats | Streak Stats
 
 - 🔭 Interests: Sanskrit, Indian Languages, Natural Language Processing, Computational Linguistics, Information Retrieval, Software, Knowledge Graphs, Databases
 - ⚡ I use (and recommend) [Conventional Commit Messages](https://gist.github.com/hrishikeshrt/606b3bdf8f7e98d91b6f81e4f661e338) for all commits.
-- 👯 I’m looking to collaborate on anything Indian Languages / LLMs / Knowledge Graphs.
+- 👯 I’m open to collaborate on anything Indian Languages / LLMs / Knowledge Graphs.
 
 <!--
 - ⚡ Fun fact: I have created the header using [vue-matrix-digit-rain + typeit](https://github.com/hrishikeshrt/matrix-rain-typeit-intro).
